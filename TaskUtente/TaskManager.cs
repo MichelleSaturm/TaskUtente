@@ -148,11 +148,7 @@ namespace TaskUtente
             }
             else
             {
-                Console.WriteLine("Non sono presenti impegni");
-                //do
-                //{
-                //    Console.WriteLine("Se vuoi aggiungerne uno premi 'y' altrimenti premi un tasto qualsiasi per tornare al menù principale.");
-                //} while (!(Console.ReadKey().KeyChar == 'n'));
+                Console.WriteLine("Non sono presenti impegni.");
 
             }
         }
